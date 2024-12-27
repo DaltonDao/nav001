@@ -64,13 +64,13 @@
       url: https://esim.5ber.com/?language=en-US&utm_source=kjgx&utm_medium=kjgx&utm_campaign=kjgx
       description: 让国行手机也有eSIM功能
 
-- taxonomy: 社区咨询
+- taxonomy: AI工具
   icon: fa-regular fa-newspaper
   links: 
-    - title: 雷锋网
-      logo: images/logos/leiphone.png
-      url: https://www.leiphone.com/
-      description: 人工智能和智能硬件领域的互联网科技媒体
+    - title: Chat-nio
+      logo: 
+      url: https://www.chatnio.net/
+      description: AI工具集大成者
     - title: 36kr
       logo: images/logos/36kr.png
       url: https://36kr.com/
