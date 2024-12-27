@@ -116,15 +116,15 @@
       description: UI设计师学习交流社区
     
 
-- taxonomy: 灵感采集
+- taxonomy: AI工具
   icon: fa-regular fa-lightbulb
   list: 
-    - term: 发现产品
+    - term: AI工具集大成網站，各類模型在線直接用。
       links:
         - title: Producthunt
-          logo: images/logos/producthunt.png
-          url: https://www.producthunt.com/
-          description: 发现新鲜有趣的产品
+          logo: 
+          url: https://chatnio.net/
+          description:用不完的模型
         - title: NEXT
           logo: images/logos/NEXT.png
           url: https://next.36kr.com/posts
